@@ -1,1 +1,39 @@
+Goal
+Edulink is a web and mobile platform design to provide free, high quality education to underprivileged students, bridging the gap between learners and educational resources
 
+Role
+As a mobile/web app developer, designing an intuitive platform that prioritize inclusitivty,support and offline functionality
+
+Audience
+Students in remote/rural areas, teachers, and schools with limited digital infrastructure
+
+Situation
+Over 260 million children and youth are out of schools globally exacerbated by the digital divide. Edulink tackles this by providing free, localized educational content, peer-to-peer mentorship, and tools for teachers to share lesson plan.
+
+Objective
+To bridge educational gaps by offering a platform for accessible, localized learning material, virtual classrooms.
+
+Key SDGs Targeted
+SDG 4: Feature like Offline Learning Modules and Teacher collaborations hub ensure inclusive educations.
+
+SDG 10 Language Localization and low-bandwidth mode reduce disparities for marginslized communities.
+
+Key Features
+Offline-First Design Download lessons, quizzes, and videos for use without internet.
+Virtual Classroom real-time or asynchronous lessons with screen-sharing and chat.
+Community forum students/teachers share resources, ask questions and mentor peers.
+
+Technical Architecture
+
+
+Research and Evidence
+Unesco report on global education gaps
+https://www.unesco.org/en/articles/250-million-children-out-school-what-you-need-know-about-unescos-latest-education-data?
+
+https://soeonline.american.edu/blog/digital-divide-in-education/
+
+Development of Offline E-Modules to Improve Learners' Academic Performance
+https://www.researchgate.net/publication/369337053_Development_of_Offline_E-Modules_to_Improve_Learners%27_Academic_Performance_in_Disciplines_and_Ideas_in_the_Social_Sciences
+
+Distance Education for Teacher Training: Modes, Models, and Method
+https://inee.org/sites/default/files/Distance_Education_for_Teacher_Training_-_Modes%2C_Models%2C_and_Methods.pdf?
