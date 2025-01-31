@@ -8,7 +8,7 @@ This report evaluates and compares web services and XML integration in terms of 
  Scalability: Stateless operations enable horizontal scaling.
  Standardization: WSDL for service description; UDDI for discovery.
 
-	XML Integration
+ XML Integration
  Data Integrity: Strong schema validation (XSD) ensures structured data exchange.
  Flexibility: Supports hierarchical data representation for complex systems.
  Human-Readable: Plain-text format simplifies debugging and manual edits
